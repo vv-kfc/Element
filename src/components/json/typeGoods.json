@@ -1,0 +1,88 @@
+{      
+	"hanbao": [
+		{
+			"goodsId": 1,
+			"goodsImg": "../static/image/pos001.jpg",
+			"goodsName": "香辣鸡腿堡",
+			"price": 18
+		}, 
+		{
+			"goodsId": 2,
+			"goodsImg": "../static/image/pos002.jpg",
+			"goodsName": "田园鸡腿堡",
+			"price": 15
+		}, 
+		{
+			"goodsId": 3,
+			"goodsImg": "../static/image/pos003.jpg",
+			"goodsName": "和风汉堡",
+			"price": 15
+		}
+	], 
+	"xiaoshi":[
+		{
+			"goodsId": 4,
+			"goodsImg": "../static/image/shutiao001.jpg",
+			"goodsName": "大包薯条",
+			"price": 18
+		}, 
+		{
+			"goodsId": 5,
+			"goodsImg": "../static/image/jitui001.jpg",
+			"goodsName": "脆皮炸鸡腿",
+			"price": 20
+		}, 
+		{
+			"goodsId": 6,
+			"goodsImg": "../static/image/jikuai001.jpg",
+			"goodsName": "魔法鸡块",
+			"price": 20
+		}
+	], 
+	"kele":[
+		{
+			"goodsId": 7,
+			"goodsImg": "../static/image/yinliao001.jpg",
+			"goodsName": "可乐小杯",
+			"price": 10
+		}, 
+		{
+			"goodsId": 8,
+			"goodsImg": "../static/image/yinliao002.jpg",
+			"goodsName": "可乐中杯",
+			"price": 18
+		},
+		{
+			"goodsId": 9,
+			"goodsImg": "../static/image/yinliao003.jpg",
+			"goodsName": "摩卡",
+			"price": 18
+		},
+		{
+			"goodsId": 10,
+			"goodsImg": "../static/image/yinliao004.jpg",
+			"goodsName": "暴风雪",
+			"price": 18
+		},
+		 {
+			"goodsId": 11,
+			"goodsImg": "../static/image/yinliao005.jpg",
+			"goodsName": "雪顶咖啡",
+			"price": 18
+		}
+	], 
+	"taocan":[
+		{
+			"goodsId": 12,
+			"goodsImg": "../static/image/pos002.jpg",
+			"goodsName": "儿童欢乐套餐",
+			"price": 25
+		}, 
+		{
+			"goodsId": 13,
+			"goodsImg": "../static/image/pos003.jpg",
+			"goodsName": "快乐全家桶",
+			"price": 99
+		}
+	]
+}
